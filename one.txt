@@ -8,3 +8,10 @@ vekbvkebkbver
 
 printf"hello world"
 scanf"hello world"
+
+
+
+
+
+printf"hello world"
+scanf"hello world"
