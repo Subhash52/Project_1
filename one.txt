@@ -4,3 +4,7 @@ hjdvcjedvev
 vejkbbekvvk
 evkebvjberkv
 vekbvkebkbver
+
+
+printf"hello world"
+scanf"hello world"
